@@ -3,15 +3,28 @@
 <head>
 <meta charset="UTF-8">
  <title>Dakota's tilde.club</title>
- <link rel="stylesheet" type="text/css" href="tlide.css" media="screen" />
+ <link rel="stylesheet" type="text/css" href="tilde.css" media="screen" />
 </head>
 
 <body>
  <header>
   <h1>David Dakota Blair</h1>
+  <ol>
+  <h2>Table of Contents</h2>
+   <li>About</li>
+   <li>Fun bash one liners</li>
+  </ol>
  </header>
  <section>
+  <h1>About</h1>
   This is Dakota's tilde.club page.
+ </section>
+ <section>
+  <h1>Fun bash one liners</h1>
+  <dl>
+    <dt>Print a few random numbers</dt>
+    <dd>od -d &lt; /dev/random | awk '{ print $2 }' | head</dd>
+  </dl>
  </section>
 </body>
 
