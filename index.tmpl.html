@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8">
+  <title>Dakota's tilde.club</title>
+  <link rel="stylesheet" type="text/css" href="tilde.css" media="screen" />
+  <script src="tilde.js" async defer crossorigin="anonymous"></script>
+ </head>
+ <body>
+  <header>
+   <h1>David Dakota Blair</h1>
+   <h2>Table of Contents</h2>
+   <ol>
+    <li><a href="#about">About</a></li>
+    <li><a href="#bash">Fun bash one liners</a></li>
+    <li>
+      <a href="#readings">Readings</a>:
+      <a href="#2020">2020</a>
+      <a href="#2019">2019</a>
+      <a href="#2018">2018</a>
+      <a href="#2017">2017</a>
+      <a href="#2016">2016</a>
+      <a href="#2015">2015</a>
+    </li>
+   </ol>
+  </header>
+  <hr />
+  <section id="about">
+   <h1>About</h1>
+   This is Dakota's tilde.club page.
+  </section>
+  <hr />
+  <section id="bash">
+   <h1>Fun bash one liners</h1>
+   <dl>
+     <dt>Print a few random numbers</dt>
+     <dd>od -d &lt; /dev/random | awk '{ print $2 }' | head</dd>
+   </dl>
+   <dl>
+     <dt>A simple awk for isolating columns</dt>
+     <dd>awk '{print $2}'</dd>
+   </dl>
+   <dl>
+     <dt>Find lines containing literal tabs</dt>
+     <dd>awk '/\t/'</dd>
+     <dd>grep -P</dd>
+   </dl>
+   <dl>
+     <dt>Remove all tab characters</dt>
+     <dd>tr -d '\t'</dd>
+   </dl>
+   <dl>
+     <dt>Join files using a tab separator</dt>
+     <dd>join -t $'\t' file1 file2</dd>
+   </dl>
+   <dl>
+     <dt>Simple system benchmarks</dt>
+     <dd>yes | sed '=' | sed '/y/d'</dd>
+     <dd>time seq -n 1e6</dd>
+   </dl>
+   <dl>
+     <dt>What shell am I using?</dt>
+     <dd>lsof -p $$</dd>
+   </dl>
+   <dl>
+     <dt>See which processes are listening to a $PORT</dt>
+     <dd>netstat -pntl | grep $PORT # linux</dd>
+     <dd>lsof -nP -iTCP:$PORT | grep LISTEN # os x</dd>
+   </dl>
+   <dl>
+     <dt>Useful flags for rsync</dt>
+     <dd>rsync -h --progress --stats --verbose</dd>
+   </dl>
+   <dl>
+     <dt>Recover files from a slightly corrupted tar archive</dt>
+     <dd>cpio -ivd -H tar &lt; file.tar</dd>
+   </dl>
+  </section>
+  <hr />
+  <section id="readings">
+   {{readings}}
+  </section>
+ </body>
+</html>
