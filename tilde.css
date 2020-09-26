@@ -162,3 +162,7 @@ o888o  o888o `Y8bod8P` `Y888""8o `Y8bod88P" o888o o888o o888o `8oooooo.  8""888P
                                                               "Y88888P\A';
   transform: translateX(20ch) translateY(calc(-3*var(--font-size))) scale(.5);
 }
+
+#readings h1 {
+  margin-bottom: calc(4*var(--font-size));
+}
