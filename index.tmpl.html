@@ -4,7 +4,7 @@
  <meta charset="UTF-8">
   <title>Dakota's tilde.club</title>
   <link rel="stylesheet" type="text/css" href="tilde.css" media="screen" />
-  <script src="tilde.js" async defer crossorigin="anonymous"></script>
+  <script src="tilde.js" async defer></script>
  </head>
  <body>
   <header>
@@ -15,12 +15,14 @@
     <li><a href="#bash">Fun bash one liners</a></li>
     <li>
       <a href="#readings">Readings</a>:
-      <a href="#2020">2020</a>
-      <a href="#2019">2019</a>
-      <a href="#2018">2018</a>
-      <a href="#2017">2017</a>
-      <a href="#2016">2016</a>
-      <a href="#2015">2015</a>
+      <ul>
+        <li><a href="#2020">2020</a></li>
+        <li><a href="#2019">2019</a></li>
+        <li><a href="#2018">2018</a></li>
+        <li><a href="#2017">2017</a></li>
+        <li><a href="#2016">2016</a></li>
+        <li><a href="#2015">2015</a></li>
+      </ul>
     </li>
    </ol>
   </header>
@@ -28,17 +30,30 @@
   <section id="about">
    <h1>About</h1>
    This is Dakota's tilde.club page.
+   <h2>Preferences</h2>
+    <ul id="preferences">
+     <li>
+      <input type="checkbox" id="pref-force" />
+      <label for="pref-force">Force mode</label>
+      <input type="radio" id="pref-theme-dark" name="pref-theme" value="dark" />
+      <label for="pref-theme-dark">Dark</label>
+      <input type="radio" id="pref-theme-light" name="pref-theme" value="light" />
+      <label for="pref-theme-light">Light</label>
+      <input type="radio" id="pref-theme-h4x0r" name="pref-theme" value="h4x0r" />
+      <label for="pref-theme-h4x0r">h4x0r</label>
+     </li>
+     <li>
+      <input type="checkbox" id="pref-ascii" />
+      <label for="pref-ascii">Intensified ASCII aesthetics.</label>
+     </li>
+    </ul>
   </section>
   <hr />
   <section id="bash">
    <h1>Fun bash one liners</h1>
    <dl>
-     <dt>Print a few random numbers</dt>
-     <dd>od -d &lt; /dev/random | awk '{ print $2 }' | head</dd>
-   </dl>
-   <dl>
-     <dt>A simple awk for isolating columns</dt>
-     <dd>awk '{print $2}'</dd>
+     <dt>Remove all tab characters</dt>
+     <dd>tr -d '\t'</dd>
    </dl>
    <dl>
      <dt>Find lines containing literal tabs</dt>
@@ -46,17 +61,21 @@
      <dd>grep -P</dd>
    </dl>
    <dl>
-     <dt>Remove all tab characters</dt>
-     <dd>tr -d '\t'</dd>
-   </dl>
-   <dl>
      <dt>Join files using a tab separator</dt>
      <dd>join -t $'\t' file1 file2</dd>
+   </dl>
+   <dl>
+     <dt>A simple awk for isolating columns</dt>
+     <dd>awk '{print $2}'</dd>
    </dl>
    <dl>
      <dt>Simple system benchmarks</dt>
      <dd>yes | sed '=' | sed '/y/d'</dd>
      <dd>time seq -n 1e6</dd>
+   </dl>
+   <dl>
+     <dt>Print a few random numbers</dt>
+     <dd>od -d &lt; /dev/random | awk '{ print $2 }' | head</dd>
    </dl>
    <dl>
      <dt>What shell am I using?</dt>

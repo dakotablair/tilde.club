@@ -1,3 +1,164 @@
+/* Default color schemes */
+:root {
+  --bg: #fff;
+  --fg: #000;
+  --font-size: 18px;
+  --link: #00f;
+  --link-visited: #519;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #334;
+    --fg: #fff;
+    --font-size: 18px;
+    --link: #0bf;
+    --link-visited: #b4d;
+  }
+}
+
+/* Other themes */
+.dark {
+  --bg: #334;
+  --fg: #fff;
+  --link: #0bf;
+  --link-visited: #b4d;
+}
+
+.h4x0r {
+  --bg: #000;
+  --fg: #0f0;
+  --link: #0ff;
+  --link-visited: #f0f;
+}
+
+.light {
+  --bg: #fff;
+  --fg: #000;
+  --link: #00f;
+  --link-visited: #519;
+}
+
+/* Apply themes */
 * {
   font-family: monospace;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+  font-size: var(--font-size);
+}
+
+a {
+  color: var(--link);
+}
+
+a:visited {
+  color: var(--link-visited);
+}
+
+/* ASCII aesthetics */
+hr {
+  border: none;
+}
+
+hr:after {
+  content: "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
+}
+
+input[type=checkbox], input[type=radio] {
+  background-color: var(--bg);
+  color: var(--fg);
+  font-size: var(--font-size);
+  left: -1000px;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  top: -5px;
+  width: 3ch;
+  white-space: nowrap;
+}
+
+input[type=checkbox]:after, input[type=radio]:after {
+  left: 1000px;
+  position: relative;
+}
+
+input[type=checkbox]:after {
+  content: "[ ]";
+}
+
+input[type=checkbox]:checked:after {
+  content: "[x]";
+}
+
+input[type=radio]:after {
+  content: "( )";
+}
+
+input[type=radio]:checked:after {
+  content: "(o)";
+}
+
+header, section {
+  max-width: 80ch;
+}
+
+ul#preferences {
+  padding-inline-start: 0px;
+}
+
+/* ASCII aesthetics intensifies */
+body.ascii h1 {
+  position: relative;
+}
+
+body.ascii h1:before {
+  font-size: var(--font-size);
+  position: absolute;
+  right: 0ch;
+  white-space: pre;
+}
+
+body.ascii header h1:before {
+  content: "\
+   ___     ___     ___\A\
+  /   |   /   |   / - \\\A\
+ / /] |  / /] |  / __ \\\A\
+/_____/ /_____/ /_____/\A";
+  top: calc(-1*var(--font-size));
+}
+
+body.ascii #about h1:before {
+  content: "\
+╔═╗┌┐ ┌─┐┬ ┬┌┬┐\A\
+╠═╣├┴┐│ ││ │ │\A\
+╩ ╩└─┘└─┘└─┘ ┴\A";
+  line-height: 1;
+  top: calc(-1*var(--font-size));
+}
+
+body.ascii #bash h1:before {
+  content: "\
+ ____ ____ ____ ____\A\
+||b |||a |||s |||h ||\A\
+||__|||__|||__|||__||\A\
+|/__\\|/__\\|/__\\|/__\\|\A";
+  top: calc(-2*var(--font-size));
+}
+
+body.ascii #readings h1:before {
+  content: '\
+ooooooooo.                             .o8   o8o\A\
+`888   `Y88.                          "888   `"`\A\
+ 888   .d88`  .ooooo.   .oooo.    .oooo888  oooo  ooo. .oo.    .oooooooo  .oooo.o\A\
+ 888ooo88P`  d88` `88b `P  )88b  d88` `888  `888  `888P"Y88b  888` `88b  d88(  "8\A\
+ 888`88b.    888ooo888  .oP"888  888   888   888   888   888  888   888  `"Y88b.\A\
+ 888  `88b.  888    .o d8(  888  888   888   888   888   888  `88bod8P`  o.  )88b\A\
+o888o  o888o `Y8bod8P` `Y888""8o `Y8bod88P" o888o o888o o888o `8oooooo.  8""888P`\A\
+                                                              d"     YD\A\
+                                                              "Y88888P\A';
+  transform: translateX(20ch) translateY(calc(-3*var(--font-size))) scale(.5);
 }
