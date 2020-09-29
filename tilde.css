@@ -45,7 +45,7 @@
   font-family: monospace;
 }
 
-body {
+body, pre {
   background-color: var(--bg);
   color: var(--fg);
   font-size: var(--font-size);
@@ -64,46 +64,41 @@ hr {
   border: none;
 }
 
-hr:after {
+hr::after {
   content: "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
 }
 
 input[type=checkbox], input[type=radio] {
+  display: none;
+}
+
+label::before {
   background-color: var(--bg);
   color: var(--fg);
   font-size: var(--font-size);
-  left: -1000px;
-  margin: 0px;
-  padding: 0px;
-  position: relative;
-  top: -5px;
-  width: 3ch;
+  padding: 0ch 1ch;
   white-space: nowrap;
 }
 
-input[type=checkbox]:after, input[type=radio]:after {
-  left: 1000px;
-  position: relative;
-}
-
-input[type=checkbox]:after {
+input[type=checkbox] + label::before {
   content: "[ ]";
 }
 
-input[type=checkbox]:checked:after {
+input[type=checkbox]:checked + label::before {
   content: "[x]";
 }
 
-input[type=radio]:after {
+input[type=radio] + label::before {
   content: "( )";
 }
 
-input[type=radio]:checked:after {
+input[type=radio]:checked + label::before {
   content: "(o)";
 }
 
 header, section {
   max-width: 80ch;
+  min-width: 80ch;
 }
 
 ul#preferences {
@@ -115,14 +110,14 @@ body.ascii h1 {
   position: relative;
 }
 
-body.ascii h1:before {
+body.ascii h1::before {
   font-size: var(--font-size);
   position: absolute;
   right: 0ch;
   white-space: pre;
 }
 
-body.ascii header h1:before {
+body.ascii header h1::before {
   content: "\
    ___     ___     ___\A\
   /   |   /   |   / - \\\A\
@@ -131,7 +126,7 @@ body.ascii header h1:before {
   top: calc(-1*var(--font-size));
 }
 
-body.ascii #about h1:before {
+body.ascii #about h1::before {
   content: "\
 ╔═╗┌┐ ┌─┐┬ ┬┌┬┐\A\
 ╠═╣├┴┐│ ││ │ │\A\
@@ -140,7 +135,7 @@ body.ascii #about h1:before {
   top: calc(-1*var(--font-size));
 }
 
-body.ascii #bash h1:before {
+body.ascii #bash h1::before {
   content: "\
  ____ ____ ____ ____\A\
 ||b |||a |||s |||h ||\A\
@@ -149,7 +144,7 @@ body.ascii #bash h1:before {
   top: calc(-2*var(--font-size));
 }
 
-body.ascii #readings h1:before {
+body.ascii #readings h1::before {
   content: '\
 ooooooooo.                             .o8   o8o\A\
 `888   `Y88.                          "888   `"`\A\
@@ -165,4 +160,8 @@ o888o  o888o `Y8bod8P` `Y888""8o `Y8bod88P" o888o o888o o888o `8oooooo.  8""888P
 
 #readings h1 {
   margin-bottom: calc(4*var(--font-size));
+}
+
+#reading-years li {
+  display: inline;
 }

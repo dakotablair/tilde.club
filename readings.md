@@ -60,6 +60,7 @@ know and I should be able to recover it, or at worst remove it.
 - [TX Birth records 1940](http://sites.rootsweb.com/~txhousto/vital/Births.all.Texas.1926.1949/1940/A-F.txt)
 - [Guido on PEG parsers](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 - [Measuring actual learning versus feeling of learning](https://www.pnas.org/content/116/39/19251)
+- [The Shallowness of Google Translate](https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/) by Douglas Hofstadter
 
 ### 2019-09-12 <a id="2019-09-12" name="2019-09-12"></a>
 
@@ -532,7 +533,6 @@ know and I should be able to recover it, or at worst remove it.
 - [John David Crow](https://en.wikipedia.org/wiki/John_David_Crow)
 - [Maxim Vsemirnov](http://www.mccme.ru/pdc/2007/xtra/Vsemirnov/publ-eng_Vsemirnov.pdf)
 
-
 ### 2015-11-28 <a id="2015-11-28" name="2015-11-28"></a>
 
 #### Math
@@ -558,47 +558,6 @@ know and I should be able to recover it, or at worst remove it.
 
 #### Naive Bayes
 - [Naive Bayes](http://alexhwoods.com/2015/11/08/bayes-theorem-and-naive-bayes/)
-
-### 2015-08-26 <a id="2015-08-26" name="2015-08-26"></a>
-
-#### Amillia Taylor
-
-- [The Guardian](http://www.theguardian.com/society/2007/feb/21/health.lifeandhealth)
-- [O Canada](http://o.canada.com/news/national/fate-of-the-fetus-as-politicians-debate-science-reveals-more-and-more-about-what-happens-during-pregnancy)
-
-#### Toki Pona
-- [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
-- [Alphabet](http://tokipwnage.webs.com/alphabet.htm)
-- [Pronunciation](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pronunciation_Toki_Pona.png)
-- [Tokipwnage Lesson 1](http://tokipwnage.webs.com/lesson1.htm)
-- [Tokipwnage Lesson 2](http://tokipwnage.webs.com/lesson2.htm)
-
-#### IBM Open Source
-- [Projects](https://developer.ibm.com/open/projects/)
-- [i18n4go](https://developer.ibm.com/open/i18n4go/)
-- [i18n4go on github](https://github.com/maximilien/i18n4go)
-
-#### Github student dev pack
-- [Github student dev pack](https://education.github.com/pack/offers)
-
-#### Kåre
-- [Resultant](https://en.wikipedia.org/wiki/Resultant)
-- [A.E. Brouwer - Resultant](http://www.win.tue.nl/~aeb/2WF02/resultant.pdf)
-- [Puiseux series](https://en.wikipedia.org/wiki/Puiseux_series)
-
-#### Academic
-- [Ulam Sequence](http://arxiv.org/abs/1507.00267#ulam-sequence)
-- [Neural Network Reasoning](http://arxiv.org/abs/1508.05508#neural-network-reasoning)
-- [More ties than we thought](https://peerj.com/articles/cs-2/#ties)
-- [Knuth & Plass line-breaking](http://defoe.sourceforge.net/folio/knuth-plass.html#line-breaks)
-
-#### Continuum Analytics
-- [Blaze](http://blaze.pydata.org/en/latest/)
-- [Numba](http://numba.pydata.org/)
-
-#### Fun
-- [Patrick Stewart AMA](https://www.reddit.com/r/IAmA/comments/3hq15d/i_am_actor_patrick_stewart_of_yorkshire_xmen_star/)
-- [Retro-Link SNES controller](http://www.amazon.com/Retro-Link-SNES-Controller-Adapter-Dual/dp/B00BYH9Q4Y)
 
 ### 2015-10-24 <a id="2015-10-24" name="2015-10-24"></a>
 
@@ -659,3 +618,308 @@ know and I should be able to recover it, or at worst remove it.
 - [NIPAJIN 1.7](http://ludus-leonis.com/files/NIPAJIN-en-v1.7.pdf)
 - [NIPAJIN](http://ludus-leonis.com/nipajin/en/)
 - [NIPAJIN on github](https://github.com/ludus-leonis/nipajin)
+
+### 2015-08-26 <a id="2015-08-26" name="2015-08-26"></a>
+
+#### Amillia Taylor
+
+- [The Guardian](http://www.theguardian.com/society/2007/feb/21/health.lifeandhealth)
+- [O Canada](http://o.canada.com/news/national/fate-of-the-fetus-as-politicians-debate-science-reveals-more-and-more-about-what-happens-during-pregnancy)
+
+#### Toki Pona
+- [Toki Pona](https://en.wikipedia.org/wiki/Toki_Pona)
+- [Alphabet](http://tokipwnage.webs.com/alphabet.htm)
+- [Pronunciation](https://upload.wikimedia.org/wikipedia/commons/d/dd/Pronunciation_Toki_Pona.png)
+- [Tokipwnage Lesson 1](http://tokipwnage.webs.com/lesson1.htm)
+- [Tokipwnage Lesson 2](http://tokipwnage.webs.com/lesson2.htm)
+
+#### IBM Open Source
+- [Projects](https://developer.ibm.com/open/projects/)
+- [i18n4go](https://developer.ibm.com/open/i18n4go/)
+- [i18n4go on github](https://github.com/maximilien/i18n4go)
+
+#### Github student dev pack
+- [Github student dev pack](https://education.github.com/pack/offers)
+
+#### Kåre
+- [Resultant](https://en.wikipedia.org/wiki/Resultant)
+- [A.E. Brouwer - Resultant](http://www.win.tue.nl/~aeb/2WF02/resultant.pdf)
+- [Puiseux series](https://en.wikipedia.org/wiki/Puiseux_series)
+
+#### Academic
+- [Ulam Sequence](http://arxiv.org/abs/1507.00267#ulam-sequence)
+- [Neural Network Reasoning](http://arxiv.org/abs/1508.05508#neural-network-reasoning)
+- [More ties than we thought](https://peerj.com/articles/cs-2/#ties)
+- [Knuth & Plass line-breaking](http://defoe.sourceforge.net/folio/knuth-plass.html#line-breaks)
+
+#### Continuum Analytics
+- [Blaze](http://blaze.pydata.org/en/latest/)
+- [Numba](http://numba.pydata.org/)
+
+#### Fun
+- [Patrick Stewart AMA](https://www.reddit.com/r/IAmA/comments/3hq15d/i_am_actor_patrick_stewart_of_yorkshire_xmen_star/)
+- [Retro-Link SNES controller](http://www.amazon.com/Retro-Link-SNES-Controller-Adapter-Dual/dp/B00BYH9Q4Y)
+
+### 2015-02-02 <a id="2015-02-02" name="2015-02-02"></a>
+
+- [Unicode Text Converter](https://www.panix.com/~eli/unicode/convert.cgi)
+- [choreo.2.3.js](http://gminton.org/#choreo)
+
+## 2014<a id="2014" name="2014"></a>
+
+### 2014-07-28 <a id="2014-07-28" name="2014-07-28"></a>
+
+- [Apollo Guidance Computer](https://www.ibiblio.org/apollo/)
+
+### 2014-06-23 <a id="2014-06-23" name="2014-06-23"></a>
+
+- [Live Lightning Maps](https://www.blitzortung.org/en/live_lightning_maps.php)
+
+### 2014-06-21 <a id="2014-06-21" name="2014-06-21"></a>
+
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
+
+### 2014-06-14 <a id="2014-06-14" name="2014-06-14"></a>
+
+- [Super Mario Bros. – Guide and Walkthrough](https://gamefaqs.gamespot.com/nes/525243-classic-nes-series-super-mario-bros/faqs/3097)
+
+### 2014-06-09 <a id="2014-06-09" name="2014-06-09"></a>
+
+- [Shell Folder identifiers in windows](https://github.com/libyal/libfwsi/wiki/Shell-Folder-identifiers)
+
+### 2014-05-23 <a id="2014-05-23" name="2014-05-23"></a>
+
+- [nytimes rent or buy calculator](https://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html)
+- [GeaCron](http://geacron.com/)
+- [Logical Increments](https://www.logicalincrements.com/)
+
+### 2014-04-29 <a id="2014-04-29" name="2014-04-29"></a>
+
+- [Divide Your Rent Fairly](http://www.nytimes.com/interactive/2014/science/rent-division-calculator.html)
+
+### 2014-04-17 <a id="2014-04-17" name="2014-04-17"></a>
+
+- [Shell Script mistakes](https://www.pixelbeat.org/programming/shell_script_mistakes.html)
+- [Google Shell Style Guide](https://web.archive.org/web/20140420152732/http://google-styleguide.googlecode.com:80/svn/trunk/shell.xml)
+- [Better Bash Scripting in 15 Minutes](https://robertmuth.blogspot.com/2012/08/better-bash-scripting-in-15-minutes.html)
+
+### 2014-04-10 <a id="2014-04-10" name="2014-04-10"></a>
+
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+
+### 2014-03-28 <a id="2014-03-28" name="2014-03-28"></a>
+
+- [Craig Venter](https://en.wikipedia.org/wiki/Craig_Venter)
+- [Graphi TV](http://graphtv.kevinformatics.com)
+
+### 2014-02-06 <a id="2014-02-06" name="2014-02-06"></a>
+
+- [How to make dashi](https://www.lafujimama.com/how-to-make-dashi/)
+
+## 2013<a id="2013" name="2013"></a>
+
+### 2013-12-02 <a id="2013-12-02" name="2013-12-02"></a>
+
+- [Change the puppet version installed by Vagrant](https://stackoverflow.com/questions/14792491/how-do-i-change-the-puppet-version-installed-by-vagrant)
+
+### 2013-11-24 <a id="2013-11-24" name="2013-11-24"></a>
+
+- [CS algorithms deployed](https://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
+
+### 2013-11-21 <a id="2013-11-21" name="2013-11-21"></a>
+
+- [Adding a Package to PyPi For the 1st Time](https://web.archive.org/web/20140329084158/http://jamie.curle.io/blog/my-first-experience-adding-package-pypi/)
+
+### 2013-11-08 <a id="2013-11-08" name="2013-11-08"></a>
+
+- [Papers of Ron Graham](https://www.math.ucsd.edu/~ronspubs/)
+
+### 2013-11-04 <a id="2013-11-04" name="2013-11-04"></a>
+
+- [rinohtype](https://github.com/brechtm/rinohtype)
+
+### 2013-10-30 <a id="2013-10-30" name="2013-10-30"></a>
+
+- [Rich kids of instagram](https://www.instagram.com/p/ftXCgGPAQN/)
+
+### 2013-10-21 <a id="2013-10-21" name="2013-10-21"></a>
+
+- [XSS Calc](https://web.archive.org/web/20130922004908/http://ha.ckers.org/xsscalc.html)
+
+### 2013-10-12 <a id="2013-10-12" name="2013-10-12"></a>
+
+- [myNoise](https://mynoise.net)
+- [Fraudulent Cherokee organizations](http://www.pollysgranddaughter.com/p/fraudulent-cherokee-organizations.html)
+
+### 2013-09-24 <a id="2013-09-24" name="2013-09-24"></a>
+
+- [Building age NYC](https://web.archive.org/web/20200629134859/http://bdon.org/building-age-nyc/)
+- [PLUTO tax lot data](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)
+
+### 2013-09-13 <a id="2013-09-13" name="2013-09-13"></a>
+
+- [Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/info/)
+
+### 2013-08-22 <a id="2013-08-22" name="2013-08-22"></a>
+
+- [Sentencing Uisparity and Discrimination](https://www.sagepub.com/sites/default/files/upm-binaries/27008_4.pdf)
+
+### 2013-08-21 <a id="2013-08-21" name="2013-08-21"></a>
+
+- [Gerrymandering jigsaw puzzle](http://www.slate.com/articles/news_and_politics/map_of_the_week/2013/08/gerrymandering_jigsaw_puzzle_game_put_the_congressional_districts_back_together.html)
+
+### 2013-08-14 <a id="2013-08-14" name="2013-08-14"></a>
+
+- [Rawlf rejoins the muppets](https://www.youtube.com/watch?v=TiNsrP6YufY)
+
+### 2013-07-31 <a id="2013-07-31" name="2013-07-31"></a>
+
+- [US Code in XML](https://web.archive.org/web/20130804205430/http://uscodebeta.house.gov/download/download.shtml)
+
+### 2013-07-30 <a id="2013-07-30" name="2013-07-30"></a>
+
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [Upgrading graphics on a 11" Macbook Air](https://www.techinferno.com/index.php?/forums/topic/3225-2013-11-mba-gtx5704gbpsc-tbec2-pe4l-21b-win7-kloper/)
+
+### 2013-07-22 <a id="2013-07-22" name="2013-07-22"></a>
+
+- [Latest supernovae](http://www.rochesterastronomy.org/snimages/index.html)
+
+### 2013-07-15 <a id="2013-07-15" name="2013-07-15"></a>
+
+- [NSA-proof your e-mail in 2 hours](https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/)
+
+### 2013-07-12 <a id="2013-07-12" name="2013-07-12"></a>
+
+- [Python: Common Newbie Mistakes](https://amir.rachum.com/blog/2013/07/06/python-common-newbie-mistakes-part-1/)
+- [Python: Common Newbie Mistakes, Part 2](https://amir.rachum.com/blog/2013/07/09/python-common-newbie-mistakes-part-2/)
+
+### 2013-07-09 <a id="2013-07-09" name="2013-07-09"></a>
+
+- [Dustin Hoffman on TOOTSIE](https://www.youtube.com/watch?v=xPAat-T1uhE)
+
+### 2013-07-07 <a id="2013-07-07" name="2013-07-07"></a>
+
+- [James Duane - Don't Talk to the Police](https://www.youtube.com/watch?v=CkZf6_jK3Zs)
+
+### 2013-06-26 <a id="2013-06-26" name="2013-06-26"></a>
+
+- [Abortion statistics 2009](https://www.cdc.gov/mmwr/preview/mmwrhtml/ss6108a1.htm)
+
+### 2013-06-06 <a id="2013-06-06" name="2013-06-06"></a>
+
+- [Credo](https://web.archive.org/web/20130710105321/http://plover.net/~bonds/credo.html)
+- [The Invention of the Mind](https://web.archive.org/web/20130525210204/http://plover.net/~bonds/mind.html)
+- [Turing - Computing Machinery and Intelligence](https://web.archive.org/web/20130601041909/http://www.loebner.net/Prizef/TuringArticle.html)
+
+### 2013-06-04 <a id="2013-06-04" name="2013-06-04"></a>
+
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+### 2013-05-30 <a id="2013-05-30" name="2013-05-30"></a>
+
+- [Visualize the Central Limit Theorem](https://web.archive.org/web/20130607181348/http://blog.vctr.me/posts/central-limit-theorem.html)
+
+### 2013-05-08 <a id="2013-05-08" name="2013-05-08"></a>
+
+- [Many projects with Vagrant and Puppet](https://blog.serverdensity.com/many-projects-with-vagrant-and-puppet/)
+- [why is your development environment manual](https://web.archive.org/web/20130607134333/http://sidekicksrc.com/post/if-you-love-automation-why-is-your-development-environment-manual)
+- [Bash Prompt Escape Sequences](https://tldp.org/HOWTO/Bash-Prompt-HOWTO/bash-prompt-escape-sequences.html)
+
+### 2013-04-25 <a id="2013-04-25" name="2013-04-25"></a>
+
+- [Why I Let My Students Cheat](https://www.zocalopublicsquare.org/2013/04/15/why-i-let-my-students-cheat-on-the-final/ideas/nexus/)
+
+### 2013-04-21 <a id="2013-04-21" name="2013-04-21"></a>
+
+- [Bill Watterson - Some Thoughts on the Real World by One Who Glimpsed It and Fled](https://web.archive.org/web/20130425052659/http://www.serverunderground.com/archive/bill_watterson.html)
+- [Some important TeX Live packages to install](https://timothyandrewbarber.blogspot.com/2011/08/some-important-tex-packages-to-install.html)
+
+### 2013-04-16 <a id="2013-04-16" name="2013-04-16"></a>
+
+- [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector)
+
+### 2013-04-12 <a id="2013-04-12" name="2013-04-12"></a>
+
+- [How to cut a pizza](https://nedroidcomics.tumblr.com/post/38264802929/how-to-cut-a-pizza)
+- [Tee Fury](https://www.teefury.com/)
+- [Snort Tees](https://www.snorgtees.com/t-shirts/geek-nerd)
+- [Neatoshop](https://www.neatoshop.com/catg/Science)
+
+### 2013-04-08 <a id="2013-04-08" name="2013-04-08"></a>
+
+- [tmux move window](https://stackoverflow.com/questions/3094946/move-window-between-tmux-clients)
+
+### 2013-04-02 <a id="2013-04-02" name="2013-04-02"></a>
+
+- [xkcd 1190: Time, explained](https://explainxkcd.com/wiki/index.php/1190:_Time)
+
+### 2013-04-01 <a id="2013-04-01" name="2013-04-01"></a>
+
+- [Times Haiku](https://haiku.nytimes.com/post/46843544891/its-hard-to-find-your-bearings-in-the-middle-of-a)
+- * It's hard to find your
+    bearings in the middle of
+    a cataclysm.
+
+### 2013-03-16 <a id="2013-03-16" name="2013-03-16"></a>
+
+- [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+- [Exact Exponential Algorithms](https://cacm.acm.org/magazines/2013/3/161189-exact-exponential-algorithms/fulltext)
+- [Brian’s Stupid Feed Tricks](https://inessential.com/2013/03/18/brians_stupid_feed_tricks)
+
+### 2013-03-12 <a id="2013-03-12" name="2013-03-12"></a>
+
+- [Anatomy of a hack](https://web.archive.org/web/20130317103206/http://jeffreysambells.com/2012/12/12/anatomy-of-a-hack)
+- [The Era of Symbol Fonts](https://alistapart.com/article/the-era-of-symbol-fonts)
+- [Unicode Exploder](http://jsbin.com/erajer)
+- [Underground NYPL: "An Unofficial Rose," By Iris Murdoch](https://undergroundnewyorkpubliclibrary.com/post/40600127113/an-unofficial-rose-by-iris-murdoch-borrow-i)
+
+### 2013-03-06 <a id="2013-03-06" name="2013-03-06"></a>
+
+- [DIY Counter Notification Letter](https://www.cs.cmu.edu/~dst/Terrorism/form-letter.html)
+
+### 2013-03-05 <a id="2013-03-05" name="2013-03-05"></a>
+
+- [Five Best Computer Diagnostic Tools](https://lifehacker.com/five-best-computer-diagnostic-tools-5551188)
+- [Hiren’s BootCD](http://www.hirensbootcd.org/download/)
+- [ASUS Qualified Vendors List](https://web.archive.org/web/20081002152358/http://www.asus.com/999/download/products/1875/1875_10.pdf)
+
+### 2013-03-04 <a id="2013-03-04" name="2013-03-04"></a>
+
+- [Best word of advice: Simplify](https://versionone.vc/best-word-of-advice-simplify/)
+- [Essential Security for Linux Servers](https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers)
+
+### 2013-03-03 <a id="2013-03-03" name="2013-03-03"></a>
+
+- [How to Move Folders Between Git Repositories](https://st-on-it.blogspot.com/2010/01/how-to-move-folders-between-git.html)
+- [Markdown](https://daringfireball.net/projects/markdown/syntax)
+- [Enabling markdown highlighting in Vim](https://stackoverflow.com/questions/10964681/enabling-markdown-highlighting-in-vim)
+
+### 2013-03-01 <a id="2013-03-01" name="2013-03-01"></a>
+
+- [Game of Bombs](https://gameofbombs.com/landing)
+
+### 2013-02-26 <a id="2013-02-26" name="2013-02-26"></a>
+
+- [TNG: Season 8](https://twitter.com/TNG_S8/status/141282246362546176)
+- * Picard must debate a sentient mountain to distract it while he and Riker
+    climb to safety. Geordi's new girlfriend despises Data.
+
+### 2013-02-05 <a id="2013-02-05" name="2013-02-05"></a>
+
+- [GoogleImageSlideshow](https://theslideshow.net/)
+- [LaTeX templates](https://www.latextemplates.com/)
+
+### 2013-01-29 <a id="2013-01-29" name="2013-01-29"></a>
+
+- [For 40 Years, This Russian Family Was Cut Off From All Human Contact](https://www.smithsonianmag.com/history/for-40-years-this-russian-family-was-cut-off-from-all-human-contact-unaware-of-world-war-ii-7354256/)
+- [Interplanetary Cessna](https://what-if.xkcd.com/30/)
+
+### 2013-01-28 <a id="2013-01-28" name="2013-01-28"></a>
+
+- [Bubble sort would be the wrong way to go](https://www.youtube.com/watch?v=k4RRi_ntQc8)
+
+### 2013-01-26 <a id="2013-01-26" name="2013-01-26"></a>
+
+- [Unprotected Panasonic Network Cameras](https://tlrobinson.net/projects/bigbrother/)
+- [Set Up Python and Django on Dreamhost](https://web.archive.org/web/20121014183742/http://williamting.com/posts/2012/04/18/set-up-python-and-django-on-dreamhost)
