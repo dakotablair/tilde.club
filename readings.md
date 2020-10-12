@@ -7,6 +7,14 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2020<a id="2020" name="2020"></a>
 
+### 2020-10-12 <a id="2020-10-12" name="2020-10-12"></a>
+
+- [True gnome stories](http://plover.net/~agarvin/gnome/)
+- [Interactive Fiction](http://www.plover.net/~davidw/ifindex.html)
+- [Joan Stark's ASCII Art Gallery](https://web.archive.org/web/20120114033711/http://geocities.com/spunk1111/)
+- [John Kwasnik - RIP/ANSI artist](http://www.kwasstuff.altervista.org/RIP/index.html)
+- [JLCPCB](https://jlcpcb.com/)
+
 ### 2020-09-22 <a id="2020-09-22" name="2020-09-22"></a>
 
 - [CERN at Home: Building a Particle Detector](https://clanhouse.com/cern-at-home-building-a-particle-detector)

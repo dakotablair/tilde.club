@@ -99,6 +99,7 @@ input[type=radio]:checked + label::before {
 header, section {
   max-width: 80ch;
   min-width: 80ch;
+  width: 80ch;
 }
 
 ul#preferences {
