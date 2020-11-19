@@ -7,6 +7,21 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2020<a id="2020" name="2020"></a>
 
+### 2020-11-19 <a id="2020-11-19" name="2020-11-19"></a>
+
+- [GCC and linking environment variables and flags](https://stackoverflow.com/questions/16044020/gcc-and-linking-environment-variables-and-flags)
+- [Casual Agency](https://causal.agency/)
+- [Martin Kleppe aka @aemkei](http://aem1k.com/)
+- [The Super Dimension Fortress](https://sdf.org/?welcome)
+- [Writing a lunar lander game for an actual lunar lander](http://cowlark.com/2019-07-20-cowgol-agc/)
+- [How hacking helped me get married](https://blog.mattmintzer.dev/2020/11/10/how-hacking-helped-me-get-married/)
+- [Create your own smart baby monitor](https://towardsdatascience.com/create-your-own-smart-baby-monitor-with-a-raspberrypi-and-tensorflow-5b25713410ca)
+- [Python and WebAssembly](https://almarklein.org/python_and_webassembly.html)
+- [Euclid's Orchard](https://mathworld.wolfram.com/EuclidsOrchard.html)
+- [Poisson summation](https://en.wikipedia.org/wiki/Poisson_summation_formula)
+- [Selberg trace formula](https://en.wikipedia.org/wiki/Selberg_trace_formula)
+- [Atle Selberg](https://en.wikipedia.org/wiki/Atle_Selberg)
+
 ### 2020-10-12 <a id="2020-10-12" name="2020-10-12"></a>
 
 - [True gnome stories](http://plover.net/~agarvin/gnome/)
