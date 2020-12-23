@@ -120,6 +120,10 @@
      <dd>awk '{print $2}'</dd>
    </dl>
    <dl>
+     <dt>Redirect stderr to stdout for use in pipelines</dt>
+     <dd>cat -c 2>&amp;1 >/dev/null | sed 's/././g'</dd>
+   </dl>
+   <dl>
      <dt>Simple system benchmarks</dt>
      <dd>yes | sed '=' | sed '/y/d'</dd>
      <dd>time seq -n 1e6</dd>

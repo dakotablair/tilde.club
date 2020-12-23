@@ -7,6 +7,16 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2020<a id="2020" name="2020"></a>
 
+### 2020-12-21 <a id="2020-12-21" name="2020-12-21"></a>
+
+- [Nggàm](https://en.wikipedia.org/wiki/Ngg%C3%A0m)
+- [U Bein Bridge](https://en.wikipedia.org/wiki/U_Bein_Bridge)
+- [Devil's bridge Kromlau](https://en.wikipedia.org/wiki/Azalea_and_Rhododendron_Park_Kromlau)
+- [Langkawi Sky Bridge](https://en.wikipedia.org/wiki/Langkawi_Sky_Bridge)
+- [Counterfeit Monkey](https://github.com/i7/counterfeit-monkey)
+- [StickMUD](https://www.stickmud.com/)
+- [mud.mog.ninja](https://mud.mog.ninja/)
+
 ### 2020-11-19 <a id="2020-11-19" name="2020-11-19"></a>
 
 - [GCC and linking environment variables and flags](https://stackoverflow.com/questions/16044020/gcc-and-linking-environment-variables-and-flags)
@@ -733,7 +743,7 @@ know and I should be able to recover it, or at worst remove it.
 ### 2014-03-28 <a id="2014-03-28" name="2014-03-28"></a>
 
 - [Craig Venter](https://en.wikipedia.org/wiki/Craig_Venter)
-- [Graphi TV](http://graphtv.kevinformatics.com)
+- [Graph TV](http://graphtv.kevinformatics.com)
 
 ### 2014-02-06 <a id="2014-02-06" name="2014-02-06"></a>
 
@@ -785,7 +795,7 @@ know and I should be able to recover it, or at worst remove it.
 
 ### 2013-08-22 <a id="2013-08-22" name="2013-08-22"></a>
 
-- [Sentencing Uisparity and Discrimination](https://www.sagepub.com/sites/default/files/upm-binaries/27008_4.pdf)
+- [Sentencing Disparity and Discrimination](https://www.sagepub.com/sites/default/files/upm-binaries/27008_4.pdf)
 
 ### 2013-08-21 <a id="2013-08-21" name="2013-08-21"></a>
 
