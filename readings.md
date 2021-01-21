@@ -5,6 +5,19 @@ The play links of [~jonbell](/~jonbell) inspired the publication of this list.
 Links can break in many ways, so if you see one that is broken please let me
 know and I should be able to recover it, or at worst remove it.
 
+## 2021<a id="2021" name="2021"></a>
+
+### 2021-01-21 <a id="2021-01-21" name="2021-01-21"></a>
+
+- [Three Reasons Fungi Are Not Plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
+- [Rent-a-person in Tokyo](https://mainichi.jp/english/articles/20210111/p2a/00m/0dm/016000c)
+- [Improve your virtual eye contact](https://michaelnaimark.medium.com/a-cheap-simple-hack-for-improving-your-online-classtime-experiences-802071cd34c1)
+- [Decentralized social network wishlist](https://carter.sande.duodecima.technology/decentralized-wishlist/)
+- [plain text accounting](https://plaintextaccounting.org/)
+- [uses of TCPKeepAlive](https://anderstrier.dk/2021/01/11/my-isp-is-killing-my-idle-ssh-sessions-yours-might-be-too/)
+- [the textfile directory](http://www.textfiles.com/directory.html)
+- [Look and say sequence (2021-01-11)](https://en.wikipedia.org/wiki/Look-and-say_sequence)
+
 ## 2020<a id="2020" name="2020"></a>
 
 ### 2020-12-21 <a id="2020-12-21" name="2020-12-21"></a>

@@ -16,6 +16,7 @@
     <li>
       <a href="#readings">Readings</a>:
       <ul id="reading-years">
+        <li><a href="#2021">2021</a></li>
         <li><a href="#2020">2020</a></li>
         <li><a href="#2019">2019</a></li>
         <li><a href="#2018">2018</a></li>
@@ -112,7 +113,12 @@
      <dd>grep -P</dd>
    </dl>
    <dl>
-     <dt>Join files using a tab separator</dt>
+     <dt>Join files with a tab separator</dt>
+     <dd>pr -Jmt file1 file2</dd>
+     <dd>paste file1 file2</dd>
+   </dl>
+   <dl>
+     <dt>Join files with a tab separator on a common field</dt>
      <dd>join -t $'\t' file1 file2</dd>
    </dl>
    <dl>
@@ -121,7 +127,7 @@
    </dl>
    <dl>
      <dt>Redirect stderr to stdout for use in pipelines</dt>
-     <dd>cat -c 2>&amp;1 >/dev/null | sed 's/././g'</dd>
+     <dd>cat -c 2>&amp;1 >/dev/null | sed 's/./☃/g'</dd>
    </dl>
    <dl>
      <dt>Simple system benchmarks</dt>
