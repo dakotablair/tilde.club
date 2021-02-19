@@ -7,6 +7,17 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-02-18 <a id="2021-02-18" name="2021-02-18"></a>
+
+- [South Texas Project Unit 1 tripped](https://atomicinsights.com/south-texas-project-unit-1-tripped-at-0537-on-feb-15-2021/)
+- [Power Reactor Status Report](https://www.nrc.gov/reading-rm/doc-collections/event-status/reactor-status/2021/20210218ps.html)
+- [South Texas Nuclear Generating Station](https://en.wikipedia.org/wiki/South_Texas_Nuclear_Generating_Station)
+- [The Seduction of Mimi](https://en.wikipedia.org/wiki/The_Seduction_of_Mimi)
+- [Project Orion](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion))
+- [`git init --initial-branch=main`](https://stackoverflow.com/questions/42871542/how-can-i-create-a-git-repository-with-the-default-branch-name-other-than-maste)
+- [Anatomy of a CNC Router](https://mattferraro.dev/posts/cnc-router)
+- [Clearing Combinatorial Auctions](https://queue.acm.org/detail.cfm?id=3448307)
+
 ### 2021-01-21 <a id="2021-01-21" name="2021-01-21"></a>
 
 - [Three Reasons Fungi Are Not Plants](https://asm.org/Articles/2021/January/Three-Reasons-Fungi-Are-Not-Plants)
