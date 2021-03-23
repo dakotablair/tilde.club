@@ -7,10 +7,33 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-03-22 <a id="2021-03-22" name="2021-03-22"></a>
+
+- [Barnard 68](https://en.wikipedia.org/wiki/Barnard_68)
+- [Brontosaurus](https://en.wikipedia.org/wiki/Brontosaurus)
+- [Burned house horizon](https://en.wikipedia.org/wiki/Burned_house_horizon)
+- [Christine Darden](https://en.wikipedia.org/wiki/Christine_Darden)
+- [Fred Hampton](https://en.wikipedia.org/wiki/Fred_Hampton)
+- [FRELIMO](https://en.wikipedia.org/wiki/FRELIMO)
+- [Jupiter Icy Moons Explorer](https://en.wikipedia.org/wiki/Jupiter_Icy_Moons_Explorer)
+- [Kintsugi](https://en.wikipedia.org/wiki/Kintsugi)
+- [Lithosphere-asthenosphere boundary](https://en.wikipedia.org/wiki/Lithosphere%E2%80%93asthenosphere_boundary)
+- [Maximum power point tracking](https://en.wikipedia.org/wiki/Maximum_power_point_tracking)
+- [Verlet integration](https://en.wikipedia.org/wiki/Verlet_integration)
+- [Wall Drug](https://en.wikipedia.org/wiki/Wall_Drug)
+- [17776](https://www.sbnation.com/a/17776-football)
+- [Interlocked Polygons Boolean functions](http://erikdemaine.org/papers/InterlockedPolygons_CCCG2010/paper.pdf)
+- [A red cross appeared in the sky](https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.201512205)
+- [X-Clacks-Overhead](http://xclacksoverhead.org/)
+- [Douglas Crockford removed comments from JSON](https://web.archive.org/web/20150105080225if_/https://plus.google.com/+DouglasCrockfordEsq/posts/RK8qyGVaGSr)
+- [Now you have two problems](http://regex.info/blog/2006-09-15/247#comment-3085)
+- [Critter Camera](https://critter.camera/)
+- [Xena Project](https://xenaproject.wordpress.com/what-is-the-xena-project/)
+
 ### 2021-02-18 <a id="2021-02-18" name="2021-02-18"></a>
 
 - [South Texas Project Unit 1 tripped](https://atomicinsights.com/south-texas-project-unit-1-tripped-at-0537-on-feb-15-2021/)
-- [Power Reactor Status Report](https://www.nrc.gov/reading-rm/doc-collections/event-status/reactor-status/2021/20210218ps.html)
+- [Power Reactor Status Report](https://www.nrc.gov/reading-rm/doc-collections/event-status/reactor-status/ps.html)
 - [South Texas Nuclear Generating Station](https://en.wikipedia.org/wiki/South_Texas_Nuclear_Generating_Station)
 - [The Seduction of Mimi](https://en.wikipedia.org/wiki/The_Seduction_of_Mimi)
 - [Project Orion](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion))
