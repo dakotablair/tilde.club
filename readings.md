@@ -7,6 +7,22 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-05-05 <a id="2021-05-05" name="2021-05-05"></a>
+
+- [Heating water with fire](https://www.homewoodstoves.co.nz/resources/heating-water-with-fire/)
+- [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
+- [Mininet](http://mininet.org/)
+- [Printing Algebraic Numbers](https://fredrikj.net/blog/2021/03/printing-algebraic-numbers/)
+- [Rental Pensions](http://www.betterinstitutions.com/blog/2021/2/2/rental-pension-social-housing-compete-with-homeownership)
+- [What's wrong with git?](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+- [How to make an awesome Python package in 2021](https://antonz.org/python-packaging/)
+- [New particle spotted on Tristan da Cuhna (2012-04-01)](https://www.quantumdiaries.org/2012/04/01/new-particle-spotted-on-tristan-da-cuhna-island/)
+- [Charles Lieber DOJ press release](https://www.justice.gov/opa/pr/harvard-university-professor-and-two-chinese-nationals-charged-three-separate-china-related)
+- [Charles Lieber](https://en.wikipedia.org/wiki/Charles_M._Lieber)
+- [3753 Cruithne](https://en.wikipedia.org/wiki/3753_Cruithne)
+- [Jarena Lee](https://en.wikipedia.org/wiki/Jarena_Lee)
+- [List of English words of Yiddish origin](https://en.wikipedia.org/wiki/List_of_English_words_of_Yiddish_origin)
+
 ### 2021-03-22 <a id="2021-03-22" name="2021-03-22"></a>
 
 - [Barnard 68](https://en.wikipedia.org/wiki/Barnard_68)
