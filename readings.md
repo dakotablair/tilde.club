@@ -7,6 +7,19 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-06-28 <a id="2021-06-28" name="2021-06-28"></a>
+
+- [Hasidic Mother of 10 Becomes Doctor](https://www.nytimes.com/2021/06/24/nyregion/orthodox-jewish-mother-medical-school.html)
+- [Focus on one thing](https://www.perspective-collective.com/perspectivepodcast/you-are-doing-too-much-focus-on-one-thing)
+- [Quick tips for people that find git confusing](https://news.ycombinator.com/item?id=27585483)
+- [Termshark](https://termshark.io/)
+- [Reconciling Tmux and SSH Agent Forwarding](https://blog.testdouble.com/posts/2016-11-18-reconciling-tmux-and-ssh-agent-forwarding/)
+- [A selection of CS quotes](http://www.csl.mtu.edu/cs5311.ck/www/quote.html)
+- ["...it will be called Fortran."](https://history.computer.org/pioneers/hoare.html)
+- [C. A. R. Hoare wikiquote](https://en.wikiquote.org/wiki/C._A._R._Hoare)
+- [PennMUSH](https://www.pennmush.org/)
+- [The Tau Manifesto](https://tauday.com/)
+
 ### 2021-05-05 <a id="2021-05-05" name="2021-05-05"></a>
 
 - [Heating water with fire](https://www.homewoodstoves.co.nz/resources/heating-water-with-fire/)
