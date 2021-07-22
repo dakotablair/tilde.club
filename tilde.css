@@ -159,6 +159,18 @@ o888o  o888o `Y8bod8P` `Y888""8o `Y8bod88P" o888o o888o o888o `8oooooo.  8""888P
   transform: translateX(20ch) translateY(calc(-3*var(--font-size))) scale(.5);
 }
 
+body.ascii #projects h1::before {
+  content: '\
+[H_]                                                                                                                        [He]\A\
+[Li][Be]                                                                                                [B_][C_][N_][O_][F_][Ne]\A\
+[Na][Mg]                                                                                                [Al][Si][P_][S_][Cl][Ar]\A\
+[K_][Ca]                                                        [Sc][Ti][V_][Cr][Mn][Fe][Co][Ni][Cu][Zn][Ga][Ge][As][Se][Br][Kr]\A\
+[Rb][Sr]                                                        [Y_][Zr][Nb][Mo][Tc][Ru][Rh][Pd][Ag][Cd][In][Sn][Sb][Te][I_][Xe]\A\
+[Cs][Ba][La][Ce][Pr][Nd][Pm][Sm][Eu][Gd][Tb][Dy][Ho][Er][Tm][Yb][Lu][Hf][Ta][W_][Re][Os][Ir][Pt][Au][Hg][Tl][Pb][Bi][Po][At][Rn]\A\
+[Fr][Ra][Ac][Th][Pa][U_][Np][Pu][Am][Cm][Bk][Cf][Es][Fm][Md][No][Lr][Rf][Db][Sg][Bh][Hs][Mt][Ds][Rg][Cn][Nh][Fl][Mc][Lv][Ts][Og]';
+  transform: translateX(32ch) translateY(calc(-3.5*var(--font-size))) scale(.5);
+}
+
 #readings h1 {
   margin-bottom: calc(4*var(--font-size));
 }
