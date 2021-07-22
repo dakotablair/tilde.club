@@ -577,7 +577,7 @@ know and I should be able to recover it, or at worst remove it.
 ### 2016-01-11 <a id="2016-01-11" name="2016-01-11"></a>
 
 #### Mathematics
-- [Jan Łukasiewicz](https://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz) creator or RPN
+- [Jan Łukasiewicz](https://en.wikipedia.org/wiki/Jan_%C5%81ukasiewicz) creator of RPN
 - [Fair division](https://en.wikipedia.org/wiki/Fair_division)
 - [Fueter–Pólya theorem](https://en.wikipedia.org/wiki/Fueter%E2%80%93P%C3%B3lya_theorem)
 - [Anders restricted partitions](http://arxiv.org/pdf/1509.01285.pdf)
