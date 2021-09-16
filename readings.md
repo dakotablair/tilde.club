@@ -7,6 +7,22 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-09-15 <a id="2021-09-15" name="2021-09-15"></a>
+
+- [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
+- [From Nand to Tetris](https://www.nand2tetris.org/)
+- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
+- [Some reasons to measure](https://danluu.com/why-benchmark/)
+- [The Search for Planet Nine](https://findplanetnine.blogspot.com/)
+- [The Gaussian Integral](https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf)
+- [List Homomorphisms and Parallelism](https://sigkill.dk/writings/par/lhomo.html)
+- [htmlq](https://github.com/mgdm/htmlq)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Public Nitter Instances](https://github.com/zedeus/nitter/wiki/Instances)
+- [Data Mining Wikipedia](https://billpg.com/data-mining-wikipedia/)
+- [Wikidata or scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
+- [Teaching of Jacob](https://en.wikipedia.org/wiki/Teaching_of_Jacob)
+
 ### 2021-06-28 <a id="2021-06-28" name="2021-06-28"></a>
 
 - [Hasidic Mother of 10 Becomes Doctor](https://www.nytimes.com/2021/06/24/nyregion/orthodox-jewish-mother-medical-school.html)
