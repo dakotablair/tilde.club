@@ -23,6 +23,23 @@ know and I should be able to recover it, or at worst remove it.
 - [Wikidata or scraping Wikipedia](http://simia.net/wiki/Wikidata_or_scraping_Wikipedia)
 - [Teaching of Jacob](https://en.wikipedia.org/wiki/Teaching_of_Jacob)
 
+### 2021-08-25 <a id="2021-08-25" name="2021-08-25"></a>
+
+- [144 Seven Segment display clock](https://hackaday.io/project/169632-7-segment-display-array-clock)
+- [A surge of cognitive distortions](https://www.pnas.org/content/118/30/e2102061118.full)
+- [BotW street view](https://nassimsoftware.github.io/zeldabotwstreetview/)
+- [Does Oil Come From Dinosaurs?](https://www.powells.com/post/original-essays/does-oil-come-from-dinosaurs)
+- [Florida man washes ashore in bubble device](https://www.theguardian.com/us-news/2021/jul/26/florida-man-washes-ashore-bubble-device)
+- [Representations of uncomputable and uncountable sets](http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountable-sets/)
+- [Snails carrying tiny computers](https://cosmosmagazine.com/technology/computing/snails-carrying-tiny-computers-solve-survival-mystery/)
+- [What to keep in a fireproof safe](https://www.reddit.com/r/Parenting/comments/o5vl9d/my_house_burned_down_in_the_middle_of_the_night/h2p3h5s/?context=3)
+- [manim](https://github.com/ManimCommunity/manim/)
+- [netcat explainer](https://blog.ikuamike.io/posts/2021/netcat/)
+- [noscript peertube front end](https://tube.fr.tild3.org/search/videos/trending)
+- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
+- [January 6th congressional committee](https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_the_January_6_Attack)
+- [List of people who disappeared mysteriously: post-1970](https://en.wikipedia.org/wiki/List_of_people_who_disappeared_mysteriously:_post-1970)
+
 ### 2021-06-28 <a id="2021-06-28" name="2021-06-28"></a>
 
 - [Hasidic Mother of 10 Becomes Doctor](https://www.nytimes.com/2021/06/24/nyregion/orthodox-jewish-mother-medical-school.html)
