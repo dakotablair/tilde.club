@@ -7,6 +7,21 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-10-18 <a id="2021-10-18" name="2021-10-18"></a>
+
+- [Gauss's constant](https://en.wikipedia.org/wiki/Gauss%27s_constant)
+- [Polylogrithm](https://en.wikipedia.org/wiki/Polylogarithm#Particular_values)
+- [Texas Instruments signing key controversy](https://en.wikipedia.org/wiki/Texas_Instruments_signing_key_controversy)
+- [Sentiment Scale](https://www.visualcapitalist.com/word-sentiment-scale/)
+- [Choosing Natural Adjective Ladders](https://www.mcdonald.me.uk/storytelling/lichert_article.htm)
+- [Thoughts on chess improvement](https://mbuffett.com/posts/chess_improvement_thoughts/)
+- [Moiré no more](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
+- [Counterfactual Computation](https://fqxi.org/community/forum/topic/3345)
+- [Bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- [mapping of 100,000 climate impact studies](https://github.com/mcallaghan/regional-impacts-map)
+- [SUPER METROID Speed Guide by rs1n](https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114)
+- [Conway's Game of Life Catagolue](https://catagolue.hatsya.com/home)
+
 ### 2021-09-15 <a id="2021-09-15" name="2021-09-15"></a>
 
 - [One does not simply calculate the absolute value](https://habr.com/en/post/574082/)
