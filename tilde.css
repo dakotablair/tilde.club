@@ -59,6 +59,10 @@ a:visited {
   color: var(--link-visited);
 }
 
+dt {
+  position: relative;
+}
+
 /* ASCII aesthetics */
 hr {
   border: none;
@@ -111,7 +115,7 @@ body.ascii h1 {
   position: relative;
 }
 
-body.ascii h1::before {
+body.ascii h1::before, body.ascii dt::before {
   font-size: var(--font-size);
   position: absolute;
   right: 0ch;
@@ -169,6 +173,29 @@ body.ascii #projects h1::before {
 [Cs][Ba][La][Ce][Pr][Nd][Pm][Sm][Eu][Gd][Tb][Dy][Ho][Er][Tm][Yb][Lu][Hf][Ta][W_][Re][Os][Ir][Pt][Au][Hg][Tl][Pb][Bi][Po][At][Rn]\A\
 [Fr][Ra][Ac][Th][Pa][U_][Np][Pu][Am][Cm][Bk][Cf][Es][Fm][Md][No][Lr][Rf][Db][Sg][Bh][Hs][Mt][Ds][Rg][Cn][Nh][Fl][Mc][Lv][Ts][Og]';
   transform: translateX(32ch) translateY(calc(-3.5*var(--font-size))) scale(.5);
+}
+
+body.ascii dt#lambdabot::before {
+  content: '\
+  _____   _____\A\
+  \\    \\  \\    \\\A\
+   \\    \\  \\    \\\A\
+    \\    \\  \\    \\\A\
+     \\    \\  \\    \\  \\-----------|\A\
+      \\    \\  \\    \\  \\          |\A\
+       \\    \\  \\    \\  \\---------|\A\
+       /    /  /     \\\A\
+      /    /  /       \\  \\-------|\A\
+     /    /  /    ^    \\  \\      |\A\
+    /    /  /    / \\    \\  \\ ----|\A\
+   /    /  /    /   \\    \\\A\
+  /____/  /____/     \____\\';
+  display: block;
+  transform: translateX(11ch) translateY(calc(-5*var(--font-size))) scale(calc(1/3));
+}
+
+#lambdabot + dd {
+  width: 65ch;
 }
 
 #readings h1 {
