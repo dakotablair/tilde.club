@@ -7,11 +7,48 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2021<a id="2021" name="2021"></a>
 
+### 2021-11-15 <a id="2021-11-15" name="2021-11-15"></a>
+
+- [The Story of Mel](http://www.catb.org/jargon/html/story-of-mel.html)
+- [Citations on github](https://github.blog/2021-08-19-enhanced-support-citations-github/)
+- [uops.info](https://uops.info/index.html)
+- [OpenWorm](https://openworm.org/)
+- [Lime SDR](https://news.ycombinator.com/item?id=28316117)
+- [Polyhedra viewer](https://polyhedra.tessera.li/)
+- [Norvig: "the more pressing questions are human-centered"](https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered)
+- [The Quirks of Human Intelligence](https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/)
+- [Masks Work](https://www.nytimes.com/2021/09/26/opinion/do-masks-work-for-covid-prevention.html)
+- [Loving Your Job Is a Capitalist Trap](https://www.theatlantic.com/culture/archive/2021/11/danger-really-loving-your-job/620690/)
+- [Amazon does not redeliver](https://www.cambridgeday.com/2021/11/11/with-30-packages-dumped-in-the-wrong-lobby-resident-tried-harder-to-correct-it-than-amazon/)
+- [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+- [Ancient Maya canoe found in Mexico's Yucatan](https://www.reuters.com/world/americas/rare-ancient-maya-canoe-found-mexicos-yucatan-2021-10-30/)
+- [Five things we still don't know about water](https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water)
+- [Google Algorithm Grading Rubric](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
+- [Double-Odd Elliptic Curves](https://doubleodd.group/front.html)
+- [Why can't I go faster than the speed of light?](https://gravityandlevity.wordpress.com/2009/04/08/why-cant-i-go-faster-than-the-speed-of-light-hints-from-electrodynamics/)
+- [Counterintuitive facts in math, cs and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
+- [Counterfactual computation](https://fqxi.org/community/forum/topic/3345)
+- [Parthenogenesis in California Condors](https://stories.sandiegozoo.org/2021/10/28/san-diego-zoo-wildlife-alliance-conservation-scientists-report-first-confirmed-hatchings-of-two-california-condor-chicks-from-unfertilized-eggs/)
+- [What John Von Neumann Did At Los Alamos](https://3quarksdaily.com/3quarksdaily/2020/10/what-john-von-neumann-really-did-at-los-alamos.html)
+- [The costs of free returns](https://www.theatlantic.com/magazine/archive/2021/11/free-returns-online-shopping/620169/)
+- [Three hours to save Integral](https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral)
+- [How is bamboo lumber made?](https://www.bambooimport.com/en/how-is-bamboo-lumber-made)
+- [Raspberry Pi smart office](https://www.monterail.com/blog/2016/smart-office-raspberry-pi)
+- [Buy a gas station for -$1000000](https://mobile.twitter.com/wildkait/status/1458012477925511168)
+- [web2img](https://github.com/etherdream/web2img)
+- [Why is IRC distributed?](https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8)
+- [lambdabot](https://github.com/lambdabot/lambdabot)
+- [Beware of fast-math](https://simonbyrne.github.io/notes/fastmath/)
+- [DIY CNC Machine](https://github.com/maxvfischer/DIY-CNC-machine)
+- [Minecraft on demand](https://github.com/doctorray117/minecraft-ondemand)
+- [Elaborative encoding](https://en.wikipedia.org/wiki/Elaborative_encoding)
+- [Tupper's self-referential formula](https://en.wikipedia.org/wiki/Tupper%27s_self-referential_formula)
+- [Phases of Venus](https://en.wikipedia.org/wiki/Phases_of_Venus)
+- [Epiousios](https://en.wikipedia.org/wiki/Epiousios)
+- [Synod of Whitby](https://en.wikipedia.org/wiki/Synod_of_Whitby)
+
 ### 2021-10-18 <a id="2021-10-18" name="2021-10-18"></a>
 
-- [Gauss's constant](https://en.wikipedia.org/wiki/Gauss%27s_constant)
-- [Polylogrithm](https://en.wikipedia.org/wiki/Polylogarithm#Particular_values)
-- [Texas Instruments signing key controversy](https://en.wikipedia.org/wiki/Texas_Instruments_signing_key_controversy)
 - [Sentiment Scale](https://www.visualcapitalist.com/word-sentiment-scale/)
 - [Choosing Natural Adjective Ladders](https://www.mcdonald.me.uk/storytelling/lichert_article.htm)
 - [Thoughts on chess improvement](https://mbuffett.com/posts/chess_improvement_thoughts/)
@@ -21,6 +58,9 @@ know and I should be able to recover it, or at worst remove it.
 - [mapping of 100,000 climate impact studies](https://github.com/mcallaghan/regional-impacts-map)
 - [SUPER METROID Speed Guide by rs1n](https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114)
 - [Conway's Game of Life Catagolue](https://catagolue.hatsya.com/home)
+- [Gauss's constant](https://en.wikipedia.org/wiki/Gauss%27s_constant)
+- [Polylogrithm](https://en.wikipedia.org/wiki/Polylogarithm#Particular_values)
+- [Texas Instruments signing key controversy](https://en.wikipedia.org/wiki/Texas_Instruments_signing_key_controversy)
 
 ### 2021-09-15 <a id="2021-09-15" name="2021-09-15"></a>
 
