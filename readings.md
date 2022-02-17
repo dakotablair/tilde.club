@@ -5,6 +5,26 @@ The play links of [~jonbell](/~jonbell) inspired the publication of this list.
 Links can break in many ways, so if you see one that is broken please let me
 know and I should be able to recover it, or at worst remove it.
 
+## 2022<a id="2022" name="2022"></a>
+
+### 2022-02-14 <a id="2022-02-14" name="2022-02-14"></a>
+
+- [Max Headroom signal hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
+- [The Volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536)
+- [Sam Rayburn](https://en.wikipedia.org/wiki/Sam_Rayburn)
+- [BPP (complexity)](https://en.wikipedia.org/wiki/BPP_(complexity))
+- [Cultural universal](https://en.wikipedia.org/wiki/Cultural_universal)
+- [Missing Semester of CS](https://missing.csail.mit.edu/)
+- [BB(7918) is independent of ZFC](https://scottaaronson.blog/?p=2725)
+- [Paper by Scott Aaronson and Adam Yedidia](https://www.scottaaronson.com/busybeaver.pdf)
+- [Original stack overflow question regarding consistency statements](https://mathoverflow.net/questions/62859/simpler-statements-equivalent-to-conpa-or-conzfc)
+- [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
+- [What is the Inverse of a Circle?](https://mattferraro.dev/posts/inverse-of-a-circle)
+- [How bad is my gas stove?](https://carbonswitch.co/how-bad-is-my-gas-stove-part-two)
+- [I automated my job...](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
+- [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
+- [Their Bionic Eyes Are Now Obsolete](https://spectrum.ieee.org/bionic-eye-obsolete)
+
 ## 2021<a id="2021" name="2021"></a>
 
 ### 2021-12-31 <a id="2021-12-31" name="2021-12-31"></a>
