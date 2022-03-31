@@ -1,4 +1,4 @@
-# Readings
+﻿# Readings
 
 Here are some links I want to read but for which I have not yet had the time.
 The play links of [~jonbell](/~jonbell) inspired the publication of this list.
@@ -7,23 +7,78 @@ know and I should be able to recover it, or at worst remove it.
 
 ## 2022<a id="2022" name="2022"></a>
 
+### 2022-03-31 <a id="2022-03-31" name="2022-03-31"></a>
+
+- [All of physics in 9 lines](https://www.motionmountain.net/9lines.html)
+- [Antiprotonic helium in Ars Technica](https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/)
+- [Antiprotonic helium in Nature](https://www.nature.com/articles/s41586-022-04440-7)
+- [Competitive programming with AlphaCode](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
+- [Consequences of a force limit in nature](https://www.motionmountain.net/Talk-Maximum-Force.pdf)
+- [DNA has a 521-year half-life](https://www.nature.com/articles/nature.2012.11555)
+- [Danny White kisses Cynde Lewis](https://www.texasmonthly.com/arts-entertainment/the-photo-the-dallas-cowboys-never-wanted-the-public-to-see/)
+- [David Bennett passes away](https://www.nytimes.com/2022/03/09/health/heart-transplant-pig-bennett.html)
+- [David Bennett receives pig heart transplant](https://apnews.com/article/pig-heart-transplant-6651614cb9d73bada8eea2ecb6449aef)
+- [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
+- [Forming the dog internet](https://dl.acm.org/doi/10.1145/3488539)
+- [Google Drive to sqlite](https://simonwillison.net/2022/Feb/20/google-drive-to-sqlite/)
+- [Google's atmospheric water harvesting device](https://github.com/google/h2e_technical_documentation)
+- [How bad is my gas stove?](https://carbonswitch.com/how-bad-is-my-gas-stove-part-two/)
+- [IBM Lego microscope](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)
+- [Improving Code Review](https://datto.engineering/post/looking-at-our-nitpicks)
+- [James Webb on your wall](https://hackaday.com/2022/02/16/put-a-little-piece-of-the-james-webb-on-your-wall/)
+- [John Locke's recipe for Pancakes](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- [Jonathan Anderson at the battle of San Jacinto](https://www.kltv.com/2022/01/29/mark-texas-history-carthage-founder-fought-battle-san-jacinto/)
+- [Judayah Murray](https://mobile.twitter.com/judayahmurray)
+- [Killed by Microsoft](https://killedbymicrosoft.info/)
+- [LXC vs Docker](https://earthly.dev/blog/lxc-vs-docker/)
+- [Minecraft as a Kubernetes admin tool](https://news.ycombinator.com/item?id=29816972)
+- [Odd Telephone Numbers](https://stormrider.io/odd-numbers.html)
+- [PCB Stator Axial-Flux Motor](https://spectrum.ieee.org/axial-flux)
+- [Radio filaments in the milky way](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/)
+- [SCOTUSblog profile of Ketanji Brown Jackson](https://www.scotusblog.com/2022/02/profile-of-a-potential-nominee-ketanji-brown-jackson/)
+- [Simultaneously Constricting Your Prey and Breathing](https://www.theatlantic.com/science/archive/2022/03/how-boa-constrictor-snakes-eat-prey/627607/)
+- [SkyBot](https://skybot.cam/)
+- [Spinthariscopes](https://unitednuclear.com/index.php?cPath=2_12)
+- [Tabitha Brown](https://www.iamtabithabrown.com/)
+- [The Case for a Modern Language](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
+- [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
+- [The PDE Coffee Table Book](https://people.maths.ox.ac.uk/trefethen/pdectb.html) 
+- [The Riemann Zeta function at LMFDB](https://www.lmfdb.org/L/1/1/1.1/r0/0/0)
+- [The Sentineli](https://web.archive.org/web/20130507061710/http://www.andaman.org/BOOK/chapter8/text8.htm#sentineli)
+- [The Solar System Void](https://www.sciencealert.com/the-solar-system-floats-in-a-void-now-we-know-how-that-void-triggered-the-formation-of-stars)
+- [The Uselessness of Phenylephrine](https://www.science.org/content/blog-post/uselessness-phenylephrine)
+- [The Wall in Fermont, Quebec](https://www.houseporn.ca/landscape/article/the_wall_housing_structure_in_fermont_quebec)
+- [The World's first granny square pattern](https://theyarnqueen.co.nz/worlds-first-granny-square-pattern/)
+- [Visual pokédex](https://pokemondb.net/pokedex/national)
+- [Wall Art of the James Webb Space Telescope](https://jameskiefer.com/posts/wall-art-of-the-james-webb-space-telescope/)
+- [Which tire fits my bike?](https://explainmybike.com/tire.html)
+- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
+- [Angers Bridge](https://en.wikipedia.org/wiki/Angers_Bridge)
+- [Bioche's rules](https://en.wikipedia.org/wiki/Bioche%27s_rules)
+- [Gospel of Judas](https://en.wikipedia.org/wiki/Gospel_of_Judas)
+- [Hylics](https://en.wikipedia.org/wiki/Hylics_(video_game))
+- [Nacirema](https://en.wikipedia.org/wiki/Nacirema)
+- [Negative temperature](https://en.wikipedia.org/wiki/Negative_temperature)
+- [Wardenclyffe Tower](https://en.wikipedia.org/wiki/Wardenclyffe_Tower)
+- [Xenotransplantation](https://en.wikipedia.org/wiki/Xenotransplantation#History)
+
 ### 2022-02-14 <a id="2022-02-14" name="2022-02-14"></a>
 
-- [Max Headroom signal hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
-- [The Volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536)
-- [Sam Rayburn](https://en.wikipedia.org/wiki/Sam_Rayburn)
-- [BPP (complexity)](https://en.wikipedia.org/wiki/BPP_(complexity))
-- [Cultural universal](https://en.wikipedia.org/wiki/Cultural_universal)
-- [Missing Semester of CS](https://missing.csail.mit.edu/)
 - [BB(7918) is independent of ZFC](https://scottaaronson.blog/?p=2725)
-- [Paper by Scott Aaronson and Adam Yedidia](https://www.scottaaronson.com/busybeaver.pdf)
-- [Original stack overflow question regarding consistency statements](https://mathoverflow.net/questions/62859/simpler-statements-equivalent-to-conpa-or-conzfc)
-- [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
-- [What is the Inverse of a Circle?](https://mattferraro.dev/posts/inverse-of-a-circle)
+- [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
 - [How bad is my gas stove?](https://carbonswitch.co/how-bad-is-my-gas-stove-part-two)
 - [I automated my job...](https://old.reddit.com/r/antiwork/comments/s2igq9/i_automated_my_job_over_a_year_ago_and_havent/)
-- [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics)
+- [Missing Semester of CS](https://missing.csail.mit.edu/)
+- [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
+- [Original stack overflow question regarding consistency statements](https://mathoverflow.net/questions/62859/simpler-statements-equivalent-to-conpa-or-conzfc)
+- [Paper by Scott Aaronson and Adam Yedidia](https://www.scottaaronson.com/busybeaver.pdf)
 - [Their Bionic Eyes Are Now Obsolete](https://spectrum.ieee.org/bionic-eye-obsolete)
+- [What is the Inverse of a Circle?](https://mattferraro.dev/posts/inverse-of-a-circle)
+- [BPP (complexity)](https://en.wikipedia.org/wiki/BPP_(complexity))
+- [Cultural universal](https://en.wikipedia.org/wiki/Cultural_universal)
+- [Max Headroom signal hijacking](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijacking)
+- [Sam Rayburn](https://en.wikipedia.org/wiki/Sam_Rayburn)
+- [The Volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536)
 
 ## 2021<a id="2021" name="2021"></a>
 
@@ -66,7 +121,7 @@ know and I should be able to recover it, or at worst remove it.
 - [What is an "elegant" proof?](https://web.stanford.edu/~truax/)
 - [Where Is Webb](https://www.jwst.nasa.gov/content/webbLaunch/whereIsWebb.html?units=metric)
 - [Who is the Most Accurate Chess Champion?](https://lichess.org/blog/YafSBxEAACIAr0ZA/exact-exacting-who-is-the-most-accurate-world-champion)
-- [Why Can’t You Design Noise in Frequency Space?](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/)
+- [Why Can't You Design Noise in Frequency Space?](https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/)
 - [Why Paper Jams Persist](https://www.newyorker.com/magazine/2018/02/12/why-paper-jams-persist)
 - [Why thieves love to steal catalytic converters](https://thehustle.co/why-thieves-love-to-steal-catalytic-converters/amp/)
 - [macOS setup coming from linux](https://hookrace.net/blog/macos-setup/)
@@ -410,7 +465,7 @@ know and I should be able to recover it, or at worst remove it.
 - [The Greatest Sales Deck I've Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 
     1.  Name a Big, Relevant Change in the World
-    2.  Show There’ll Be Winners and Losers
+    2.  Show There'll Be Winners and Losers
     3.  Tease the Promised Land
     4.  Introduce Features as “Magic Gifts” for Overcoming Obstacles to the Promised Land
     5.  Present Evidence that You Can Make the Story Come True
@@ -495,7 +550,7 @@ know and I should be able to recover it, or at worst remove it.
 - [Lisp in 200 lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [MTA cost spreadsheet](https://motherboard.vice.com/en_us/article/8x53xb/meet-the-spreadsheet-that-can-solve-nyc-transit-and-the-man-who-made-it)
 - [Comanche Voxel Space](https://github.com/s-macke/VoxelSpace/tree/master)
-- [I just don’t want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1)
+- [I just don't want to be a software developer anymore](https://medium.com/@melissamcewen/i-just-dont-want-to-be-a-software-developer-anymore-a371422069a1)
 
 ### 2017-11-04 <a id="2017-11-04" name="2017-11-04"></a>
 
@@ -821,7 +876,7 @@ know and I should be able to recover it, or at worst remove it.
 - [Edge-Isoperimetric Problems for Cartesian Powers of Regular Graphs](http://mcs.uwsuper.edu/sb/Papers/reg.pdf)
 - [Edge Isoperimetric Problems on Graphs](http://mcs.uwsuper.edu/sb/Papers/eip.pdf)
 - [Gauss Code knot grapher](http://knotilus.math.uwo.ca/draw.php?knot=1,%20-2,%203,%20-4,%205,%20-6,%207,%20-8,%209,%20-10,%2011,%20-12,%2013,%20-14,%2015,%20-16,%2017,%20-1,%202,%20-3,%204,%20-5,%206,%20-7,%208,%20-9,%2010,%20-11,%2012,%20-13,%2014,%20-15,%2016,%20-17)
-- [An approximate version of Sidorenko’s conjecture](http://arxiv.org/pdf/1004.4236v2.pdf)
+- [An approximate version of Sidorenko's conjecture](http://arxiv.org/pdf/1004.4236v2.pdf)
 - [David Conlon](https://en.wikipedia.org/wiki/David_Conlon)
 
 #### Ancient
@@ -1147,7 +1202,7 @@ know and I should be able to recover it, or at worst remove it.
 
 - [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 - [Exact Exponential Algorithms](https://cacm.acm.org/magazines/2013/3/161189-exact-exponential-algorithms/fulltext)
-- [Brian’s Stupid Feed Tricks](https://inessential.com/2013/03/18/brians_stupid_feed_tricks)
+- [Brian's Stupid Feed Tricks](https://inessential.com/2013/03/18/brians_stupid_feed_tricks)
 
 ### 2013-03-12 <a id="2013-03-12" name="2013-03-12"></a>
 
@@ -1163,7 +1218,7 @@ know and I should be able to recover it, or at worst remove it.
 ### 2013-03-05 <a id="2013-03-05" name="2013-03-05"></a>
 
 - [Five Best Computer Diagnostic Tools](https://lifehacker.com/five-best-computer-diagnostic-tools-5551188)
-- [Hiren’s BootCD](http://www.hirensbootcd.org/download/)
+- [Hiren's BootCD](http://www.hirensbootcd.org/download/)
 - [ASUS Qualified Vendors List](https://web.archive.org/web/20081002152358/http://www.asus.com/999/download/products/1875/1875_10.pdf)
 
 ### 2013-03-04 <a id="2013-03-04" name="2013-03-04"></a>
