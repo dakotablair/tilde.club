@@ -654,7 +654,10 @@ know and I should be able to recover it, or at worst remove it.
 
 ### 2019-03-04 <a id="2019-03-04" name="2019-03-04"></a>
 
+- [CoCalc Docker image](https://github.com/sagemathinc/cocalc-docker)
 - [Layla Sadd - Me And White Supremacy Workbook](https://www.meandwhitesupremacybook.com/get-book)
+- [PyGaze](http://www.pygaze.org)
+- [webgazer.js](https://webgazer.cs.brown.edu/)
 
 #### Knuth
 - [Selected Papers on Analysis of Algorithms](https://www-cs-faculty.stanford.edu/~knuth/aa.html)
@@ -752,6 +755,12 @@ know and I should be able to recover it, or at worst remove it.
 - [Logic Theorist](https://github.com/theoremprover-museum/logic-theorist)
 - [Logic Theorist on Wikipedia](https://en.wikipedia.org/wiki/Logic_Theorist)
 
+### 2018-07-16 <a id="2018-07-16" name="2018-07-16"></a>
+
+- [Google's machine learning crash course](https://developers.google.com/machine-learning/crash-course)
+- [Exceptional memory](https://en.wikipedia.org/wiki/Exceptional_memory)
+- [Simpson's Paradox - UC Berkeley gender bias](https://en.m.wikipedia.org/wiki/Simpson%27s_paradox#UC_Berkeley_gender_bias)
+- [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
 
 ### 2018-03-01 <a id="2018-03-01" name="2018-03-01"></a>
 
@@ -783,6 +792,18 @@ know and I should be able to recover it, or at worst remove it.
 
 - [Writing text editor](https://github.com/josephernest/writing)
 - [Jewish Problems](https://arxiv.org/pdf/1110.1556.pdf)
+
+### 2017-10-29 <a id="2017-10-29" name="2017-10-29"></a>
+
+- [80000 hours most urgent global issues](https://80000hours.org/articles/cause-selection/)
+- [Atanks - Atomic tanks](https://atanks.sourceforge.io/)
+- [Chebyshev's Inequality](https://intoli.com/blog/chebyshevs-inequality/)
+- [kubermesh](https://github.com/kubermesh/kubermesh)
+- [Open Source Game Clones](https://osgameclones.com/)
+- [python bit manipulation](https://wiki.python.org/moin/BitManipulation)
+- [python bitwise operators](https://wiki.python.org/moin/BitwiseOperators)
+- [python binary heap](https://web.archive.org/web/20171013012537/http://interactivepython.org:80/runestone/static/pythonds/Trees/BinaryHeapImplementation.html)
+- [List of common misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
 
 ### 2017-09-27 <a id="2017-09-27" name="2017-09-27"></a>
 #### design
