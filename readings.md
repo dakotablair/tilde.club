@@ -1,14 +1,88 @@
-﻿# Readings
+﻿
+# Readings
 
 Here are some links I want to read but for which I have not yet had the time.
 The play links of [~jonbell](/~jonbell) inspired the publication of this list.
 Links can break in many ways, so if you see one that is broken please let me
 know and I should be able to recover it, or at worst remove it.
 
-## 2022<a id="2022" name="2022"></a>
+## Latest
+
+### 2023-01-23 <a id="2022-01-23" name="2022-01-23"></a>
+
+- [A 3D Scan of the Bust of Nefertiti](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/)
+- [A Geometrically Natural Uncomputable Function](https://xorshammer.com/2008/09/04/a-geometrically-natural-uncomputable-function/)
+- [A new 3D map of the Milky Way with close to 66,000 stars](https://www.universetoday.com/158949/a-new-3d-map-of-the-milky-way-uses-close-to-66000-stars-and-reveals-new-details-about-the-shape-of-our-galaxy/)
+- [About the sqlite3 WASM/JS Subproject](https://sqlite.org/wasm/doc/tip/about.md)
+- [Ben Thompson - AI Homework](https://stratechery.com/2022/ai-homework/)
+- [Brick Experiment Channel - My Youtube earnings](https://brickexperimentchannel.wordpress.com/2022/11/19/my-youtube-earnings/)
+- [Challenging algorithms and data structures](https://austinhenley.com/blog/challengingalgorithms.html)
+- [Charles V: French scientists decode 500-year-old letter](https://www.bbc.com/news/world-europe-63757443)
+- [Conditional Diffusion Model for Vision Decoding](https://mind-vis.github.io/)
+- [DALL-E and the Race to Make Artificial Protein Drugs](https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/)
+- [Discmaster: search vintage computer files](https://discmaster.textfiles.com/)
+- [Doors of McMurdo](https://brr.fyi/posts/doors-of-mcmurdo)
+- [Electric heat pumps for homes could be the future](https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future)
+- [Experiments Spell Doom for Quantum 'Collapse' Theory](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
+- [Fake (NFT) books](https://lcamtuf.substack.com/p/fake-books)
+- [Google's API Improvement Proposal 122](https://google.aip.dev/122)
+- [How Rats Are Overturning Decades of Military Norms](https://www.sapiens.org/culture/land-mine-detection-rats/)
+- [How to Cook Any Whole Grain Like Popcorn](https://www.treehugger.com/how-cook-any-whole-grain-popcorn-4858738)
+- [Howden Moor incident](https://drdavidclarke.co.uk/secret-files/howden-moor-incident/)
+- [I Asked ChatGPT To Explain Some Jokes to Me](https://susam.net/maze/chatgpt-explains-jokes.html)
+- [I disconnected from the grid for 8 months, in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/)
+- [I use a Raspberry Pi as my daily computer.](https://www.heyhomepage.com/?module=blog&link=1&post=4)
+- [I was a crazy crypto miner.](https://thelemonking.medium.com/i-was-a-crazy-crypto-miner-dabebc276306)
+- [Inside the Proton, the 'Most Complicated Thing' Imaginable](https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/)
+- [Jeff Geerling - Just Say No](https://www.jeffgeerling.com/blog/2022/just-say-no)
+- [Julian Gough - I wrote a story for a friend](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
+- [Kyle McDonald - People Staring at Computers](https://kylemcdonald.net/psac/)
+- [Legoland Bond Crisis Threatens South Korea's Economy](https://foreignpolicy.com/2022/11/10/legoland-south-korea-bond-market-crisis/)
+- [Lichess & Scala 3](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
+- [Mel's Loop](https://melsloop.com/)
+- [MineCity 2000 converts SimCity 2000 cities into Minecraft](https://github.com/jgosar/mine-city-2000)
+- [NASA's New Horizons probe aims for far Kuiper Belt](https://www.popsci.com/science/new-horizons-mission-kuiper-belt/?amp)
+- [Nightmares Can Be Silenced With The Piano Chord C69](https://www.sciencealert.com/nightmares-can-be-silenced-with-a-single-piano-chord-scientists-discover)
+- [Not-Such-Better-Living Through Chemistry](https://www.science.org/content/blog-post/not-such-better-living-through-chemistry)
+- [Nuclear power is too slow](https://jackdevanney.substack.com/p/nuclear-power-is-too-slow)
+- [Only Solve One New Problem At A Time](https://www.bennadel.com/blog/4352-only-solve-one-new-problem-at-a-time.htm)
+- [Particle Life Simulation](https://github.com/hunar4321/particle-life)
+- [Private 747 With ~50 Flight Hours Scrapped](https://jalopnik.com/private-boeing-747-with-just-over-50-flight-hours-scrap-1849916280/amp)
+- [R49081 is prime!](https://mersenneforum.org/showpost.php?p=602219&postcount=35)
+- [Riffusion](https://www.riffusion.com/about)
+- [Robot treats 500k plants per hour with 95% less chemicals](https://www.youtube.com/watch?v=sV0cR_Nhac0)
+- [Sharrow MX-1 tipless propeller](https://www.mby.com/gear/sharrow-mx-1-tipless-propeller-110120)
+- [Shtetl](https://scottaaronson.blog/?p=3376)
+- [Signed 32 bit integer bug: Chess.com](https://www.chess.com/news/view/the-unique-reason-the-broken-now-fixed-chess-com-app-made-headlines-6918)
+- [Signed 32 bit integer bug: Reddit](https://old.reddit.com/r/shittychangelog/comments/zl5gaz/here_at_reddit_we_believe_everything_is_better_in/)
+- [Simon Willison - The Perfect Commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/)
+- [Stop Writing Dead Programs](https://jackrusher.com/strange-loop-2022/)
+- [Sympathies shift over migrants in Eagle Pass, Texas](https://www.theguardian.com/us-news/2022/oct/29/eagle-pass-texas-undocumented-migrants)
+- [The Enduring Mystery of the Dragonfly 44 Galaxy](https://www.quantamagazine.org/the-enduring-mystery-of-the-dragonfly-44-galaxy-20221107/)
+- [The Human Eye and Single Photons](https://math.ucr.edu/home/baez/physics/Quantum/see_a_photon.html)
+- [The Smash and Grab of Kroger-Albertsons](https://mattstoller.substack.com/p/the-smash-and-grab-of-kroger-albertsons)
+- [The Tyranny of the Wagon Equation](https://maximumeffort.substack.com/p/the-tyranny-of-the-wagon-equation)
+- [The canary resuscitator](https://blog.scienceandindustrymuseum.org.uk/canary-resuscitator/)
+- [The essence of Reed-Solomon coding](https://mazzo.li/posts/reed-solomon.html)
+- [There must be a singularity at each black hole's center](https://bigthink.com/starts-with-a-bang/singularity-black-hole/)
+- [This rapid-fire laser diverts lightning strikes](https://www.nature.com/articles/d41586-023-00080-7)
+- [Tim Bray - Just Don't](https://www.tbray.org/ongoing/When/202x/2022/11/07/Just-Dont)
+- [Twenty Questions is a weird game](https://aaronson.org/blog/twenty-questions)
+- [Ursula Le Guin on Star Trek: TNG](https://angelfishing.tumblr.com/post/153483709178/ursula-le-guin-on-star-trek-tng)
+- [Why 21 cm is the magic length for the Universe](https://bigthink.com/starts-with-a-bang/21cm-magic-length/)
+- [Why are there so few dead bugs on my windshield these days?](https://www.washingtonpost.com/business/2022/10/21/dead-bugs-on-windshields/)
+- [Wikimedia Endowment controversy](https://meta.wikimedia.org/wiki/Talk:Wikimedia_Endowment#Is_the_money_still_with_Tides)
+- [Yitang Zhang on Landau-Siegel zeroes](https://arxiv.org/abs/2211.02515)
+- [486958 Arrokoth](https://en.wikipedia.org/wiki/486958_Arrokoth)
+- [A Thief in the Night (film series)](https://en.wikipedia.org/wiki/A_Thief_in_the_Night_(film_series))
+- [Black Is King](https://en.wikipedia.org/wiki/Black_Is_King)
+- [Erfurt latrine disaster](https://en.wikipedia.org/wiki/Erfurt_latrine_disaster)
+- [Iconoclasm](https://en.wikipedia.org/wiki/Iconoclasm)
+- [Kathleen Booth](https://en.wikipedia.org/wiki/Kathleen_Booth)
+
+## 2023<a id="2023" name="2023"></a>
 
 ### 2022-10-17 <a id="2022-10-17" name="2022-10-17"></a>
-
 
 - [A lesson in shortcuts.](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp)
 - [AI Language Models Are Struggling to "Get" Math](https://spectrum.ieee.org/large-language-models-math)
@@ -306,7 +380,7 @@ know and I should be able to recover it, or at worst remove it.
 - [Sam Rayburn](https://en.wikipedia.org/wiki/Sam_Rayburn)
 - [The Volcanic winter of 536](https://en.wikipedia.org/wiki/Volcanic_winter_of_536)
 
-## 2021<a id="2021" name="2021"></a>
+## 2022<a id="2022" name="2022"></a>
 
 ### 2021-12-31 <a id="2021-12-31" name="2021-12-31"></a>
 
@@ -535,7 +609,7 @@ know and I should be able to recover it, or at worst remove it.
 - [the textfile directory](http://www.textfiles.com/directory.html)
 - [Look and say sequence (2021-01-11)](https://en.wikipedia.org/wiki/Look-and-say_sequence)
 
-## 2020<a id="2020" name="2020"></a>
+## 2021<a id="2021" name="2021"></a>
 
 ### 2020-12-21 <a id="2020-12-21" name="2020-12-21"></a>
 
@@ -613,7 +687,8 @@ know and I should be able to recover it, or at worst remove it.
 - [Ōnin War](https://en.wikipedia.org/wiki/%C5%8Cnin_War)
 - [S2 Geometry Library](https://s2geometry.io/)
 
-## 2019<a id="2019" name="2019"></a>
+## 2020<a id="2020" name="2020"></a>
+
 ### 2019-10-19 <a id="2019-10-19" name="2019-10-19"></a>
 
 - [do-it-yourself legal guides](https://www.nolo.com/)
@@ -699,7 +774,8 @@ know and I should be able to recover it, or at worst remove it.
     4.  Introduce Features as “Magic Gifts” for Overcoming Obstacles to the Promised Land
     5.  Present Evidence that You Can Make the Story Come True
 
-## 2018<a id="2018" name="2018"></a>
+## 2019<a id="2019" name="2019"></a>
+
 ### 2018-12-01 <a id="2018-12-01" name="2018-12-01"></a>
 - [A Neural Network paper exemplar](https://arxiv.org/abs/1811.03600)
 
@@ -781,7 +857,8 @@ know and I should be able to recover it, or at worst remove it.
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 - [darknet to tensorflow](https://github.com/thtrieu/darkflow/)
 
-## 2017<a id="2017" name="2017"></a>
+## 2018<a id="2018" name="2018"></a>
+
 ### 2017-11-26 <a id="2017-11-26" name="2017-11-26"></a>
 - [Lisp in 200 lines of C](https://carld.github.io/2017/06/20/lisp-in-less-than-200-lines-of-c.html)
 - [MTA cost spreadsheet](https://motherboard.vice.com/en_us/article/8x53xb/meet-the-spreadsheet-that-can-solve-nyc-transit-and-the-man-who-made-it)
@@ -924,7 +1001,8 @@ know and I should be able to recover it, or at worst remove it.
 - [Okavango Delta](https://en.wikipedia.org/wiki/Okavango_Delta)
 - [Kalahari Desert](https://en.wikipedia.org/wiki/Kalahari_Desert)
 
-## 2016<a id="2016" name="2016"></a>
+## 2017<a id="2017" name="2017"></a>
+
 ### 2016-12-03 <a id="2016-12-03" name="2016-12-03"></a>
 - [Serverless Map/Reduce](http://tothestars.io/blog/2016/11/2/serverless-mapreduce)
 - [Lambda Map/Reduce reference architecture](https://github.com/awslabs/lambda-refarch-mapreduce)
@@ -1085,7 +1163,8 @@ know and I should be able to recover it, or at worst remove it.
 #### Chilliwack
 - [Chilliwack intersection](https://www.youtube.com/channel/UCfc5HgiA90PPRBm3Slx2UCA)
 
-## 2015<a id="2015" name="2015"></a>
+## 2016<a id="2016" name="2016"></a>
+
 ### 2015-12-11 <a id="2015-12-11" name="2015-12-11"></a>
 
 #### Mathematics
@@ -1250,7 +1329,7 @@ know and I should be able to recover it, or at worst remove it.
 - [Unicode Text Converter](https://www.panix.com/~eli/unicode/convert.cgi)
 - [choreo.2.3.js](http://gminton.org/#choreo)
 
-## 2014<a id="2014" name="2014"></a>
+## 2015<a id="2015" name="2015"></a>
 
 ### 2014-07-28 <a id="2014-07-28" name="2014-07-28"></a>
 
@@ -1301,7 +1380,7 @@ know and I should be able to recover it, or at worst remove it.
 
 - [How to make dashi](https://www.lafujimama.com/how-to-make-dashi/)
 
-## 2013<a id="2013" name="2013"></a>
+## 2014<a id="2014" name="2014"></a>
 
 ### 2013-12-02 <a id="2013-12-02" name="2013-12-02"></a>
 
@@ -1508,3 +1587,5 @@ know and I should be able to recover it, or at worst remove it.
 
 - [Unprotected Panasonic Network Cameras](https://tlrobinson.net/projects/bigbrother/)
 - [Set Up Python and Django on Dreamhost](https://web.archive.org/web/20121014183742/http://williamting.com/posts/2012/04/18/set-up-python-and-django-on-dreamhost)
+
+## 2013<a id="2013" name="2013"></a>
