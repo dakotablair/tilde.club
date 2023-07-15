@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD029 -->
+
 # Dakota's tilde.club
 
 This is the repository for building Dakota's tilde.club page. As of now, the
@@ -14,21 +16,21 @@ only build artifact is `index.html`.
 
 ## Installation
 
-1.  Clone the repository and `cd` into the cloned directory.
-2.  Make a virtualenv (optional, but highly suggested) and activate it:
+1. Clone the repository and `cd` into the cloned directory.
+2. Make a virtualenv (optional, but highly suggested) and activate it:
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 ```
 
-3.  Install the `python` package dependencies using `pip`:
+3. Install the `python` package dependencies using `pip`:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-4.  Run the publish script:
+4. Run the publish script:
 
 ```bash
 ./publish.py
