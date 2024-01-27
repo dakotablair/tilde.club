@@ -1,4 +1,4 @@
-﻿<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 -->
 # Readings
 
 Here are some links I want to read but for which I have not yet had the time.
@@ -7,6 +7,55 @@ Links can break in many ways, so if you see one that is broken please let me
 know and I should be able to recover it, or at worst remove it.
 
 ## Latest
+
+### 2024-01-27 <a id="2024-01-27" name="2024-01-27"></a>
+
+- [Attempt to fill secret Chabad tunnel leads to arrests – The Forward](https://forward.com/fast-forward/575528/arrests-at-chabad-770-secret-tunnel/)
+- [CHART](https://astrochart.github.io/website/hardware.html)
+- [CQK Is The First Unused TLA](https://gwern.net/tla)
+- [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
+- [Displaying content as a graph](https://thisisimportant.net/posts/content-as-a-graph/)
+- [Everything wrong with databases](https://blog.redplanetlabs.com/2024/01/09/everything-wrong-with-databases-and-why-their-complexity-is-now-unnecessary/)
+- [Minnesota trapper uses CPR to save wayward marten](https://www.mprnews.org/story/2024/01/03/forbidden-catch-happy-ending-minnesota-trapper-uses-cpr-to-save-wayward-marten)
+- [GPSJAM GPS/GNSS Interference Map](https://gpsjam.org/?lat=26.33272&lon=37.89054&z=2.4&date=2023-11-06)
+- [Hackers (1995) Sci-fi interfaces](https://scifiinterfaces.com/2023/12/11/hackers/)
+- [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
+- [If Lisp is so great...](https://mihaiolteanu.me/if-lisp-is-so-great)
+- [K3s](https://k3s.io/)
+- [Ketamine's effect on depression may hinge on hope](https://med.stanford.edu/news/all-news/2023/10/ketamine.html)
+- [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
+- [Load Balancing](https://samwho.dev/load-balancing/)
+- [Meet The Future Of AI. It's An Aggie Named Hannah](https://www.forbes.com/sites/michaelgale/2023/08/24/meet-the-future-of-ai-its-not-chatgpt-bard-ai-or-code-whisperer--its-a-texas-am-second-year-undergraduate-named-hannah/amp/)
+- [Microfrontends should be your last resort](https://www.breck-mckye.com/blog/2023/05/Microfrontends-should-be-your-last-resort/)
+- [Museum of Modern Art 100% Speedrun in 20:17](https://www.youtube.com/watch?v=Ctd_RJTe9tA)
+- [NASA: Capillary Cup](https://news.ycombinator.com/item?id=37855719)
+- [New images reveal what Neptune and Uranus really look like](https://www.ox.ac.uk/news/2024-01-05-new-images-reveal-what-neptune-and-uranus-really-look-0)
+- [To Fell a Tree in Five Minutes Take Three Minutes Sharpening Your Axe](https://quoteinvestigator.com/2014/03/29/sharp-axe/#google_vignette)
+- [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang#user-content-fnref-1)
+- [The Cheap Web](https://potato.cheap/)
+- [The computer built to last 50 years](https://ploum.net/the-computer-built-to-last-50-years/)
+  - [~lioploum/forevercomputer](https://lists.sr.ht/~lioploum/forevercomputer)
+- [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/#_games_before_guis)
+- [Tidy First?](https://henrikwarne.com/2024/01/10/tidy-first/)
+- [Troublesome words in SQL](https://modern-sql.com/reserved-words-empirical-list)
+- [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
+- [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
+- [We're sorry we created the Torment Nexus](https://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html)
+- [What happens when an astronaut in orbit says he's not coming back?](https://arstechnica.com/space/2024/01/solving-a-nasa-mystery-why-did-space-shuttle-commanders-lock-the-hatch/)
+- [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
+- [mgarciaisaia/JavaScript-Is-Weird-as-a-compressor](https://github.com/mgarciaisaia/JavaScript-Is-Weird-as-a-compressor)
+- [John McCarthy facts in lisp](https://www-formal.stanford.edu/jmc/facts.txt)
+- [AVIF](https://en.wikipedia.org/wiki/AVIF)
+- [Cecilia Payne-Gaposchkin](https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin)
+- [Hyatt Regency walkway collapse](https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse)
+- [Jocelyn Bell Burnell](https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell)
+- [Kuai Kuai culture](https://en.wikipedia.org/wiki/Kuai_Kuai_culture)
+- [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
+- [New York City synagogue tunnel incident](https://en.wikipedia.org/wiki/New_York_City_synagogue_tunnel_incident)
+- [Niklaus Wirth](https://en.wikipedia.org/wiki/Niklaus_Wirth)
+- [Time (Electric Light Orchestra album)](https://en.wikipedia.org/wiki/Time_(Electric_Light_Orchestra_album))
+
+## 2024<a id="2024" name="2024"></a>
 
 ### 2023-09-23 <a id="2023-09-23" name="2023-09-23"></a>
 
@@ -1812,8 +1861,8 @@ know and I should be able to recover it, or at worst remove it.
 ### 2013-04-01 <a id="2013-04-01" name="2013-04-01"></a>
 
 - [Times Haiku](https://haiku.nytimes.com/post/46843544891/its-hard-to-find-your-bearings-in-the-middle-of-a)
-  - > It's hard to find your  
-    > bearings in the middle of  
+  - > It's hard to find your
+    > bearings in the middle of
     > a cataclysm.
 
 ### 2013-03-16 <a id="2013-03-16" name="2013-03-16"></a>
