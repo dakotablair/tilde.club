@@ -149,6 +149,11 @@
      <dd>paste file1 file2</dd>
    </dl>
    <dl>
+     <dt>Add a column of numbers from stdin</dt>
+     <dd>jq -s '. | add' --</dd>
+     <dd>python -c 'import sys;print(sum(int(i) for i in sys.stdin.readlines()))' --</dd>
+   </dl>
+   <dl>
      <dt>Join files with a tab separator on a common field</dt>
      <dd>join -t $'\t' file1 file2</dd>
    </dl>
